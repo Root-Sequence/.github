@@ -58,6 +58,15 @@ jobs:
             echo 'No docs:audit script declared; skipping documentation audit.'
           fi
 
+      - name: Audit repository maintenance candidates
+        shell: bash
+        run: |
+          if [ -f package.json ] && node -e "const p=require('./package.json'); process.exit(p.scripts?.['repo:audit'] ? 0 : 1)"; then
+            npm run repo:audit
+          else
+            echo 'No repo:audit script declared; skipping repository maintenance audit.'
+          fi
+
       - name: Commit deterministic repairs
         if: github.event_name != 'pull_request'
         shell: bash
