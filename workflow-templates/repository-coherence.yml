@@ -1,0 +1,72 @@
+name: Repository coherence
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 9 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  coherence:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Synchronize deterministic documentation
+        if: github.event_name != 'pull_request'
+        shell: bash
+        run: |
+          if [ -f package.json ] && node -e "const p=require('./package.json'); process.exit(p.scripts?.['docs:sync'] ? 0 : 1)"; then
+            npm run docs:sync
+          else
+            echo 'No docs:sync script declared; skipping deterministic sync.'
+          fi
+
+      - name: Verify generated documentation
+        if: github.event_name == 'pull_request'
+        shell: bash
+        run: |
+          if [ -f package.json ] && node -e "const p=require('./package.json'); process.exit(p.scripts?.['docs:check'] ? 0 : 1)"; then
+            npm run docs:check
+          else
+            echo 'No docs:check script declared; skipping generated-doc check.'
+          fi
+
+      - name: Audit documentation coherence
+        shell: bash
+        env:
+          COHERENCE_BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before || '' }}
+          COHERENCE_HEAD_SHA: ${{ github.sha }}
+        run: |
+          if [ -f package.json ] && node -e "const p=require('./package.json'); process.exit(p.scripts?.['docs:audit'] ? 0 : 1)"; then
+            npm run docs:audit
+          else
+            echo 'No docs:audit script declared; skipping documentation audit.'
+          fi
+
+      - name: Commit deterministic repairs
+        if: github.event_name != 'pull_request'
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo 'No deterministic maintenance changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'chore: synchronize repository maintenance artifacts'
+          git push
