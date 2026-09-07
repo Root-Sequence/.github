@@ -1,0 +1,7 @@
+{
+  "name": "Repository coherence",
+  "description": "Keep generated docs synchronized and surface documentation drift using repo-defined maintenance scripts.",
+  "iconName": "octicon sync",
+  "categories": ["Automation"],
+  "filePatterns": ["package.json$", ".*\\.md$"]
+}
