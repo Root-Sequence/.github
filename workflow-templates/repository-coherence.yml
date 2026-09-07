@@ -2,8 +2,9 @@ name: Repository coherence
 
 on:
   pull_request:
+    branches: [$default-branch]
   push:
-    branches: [main]
+    branches: [$default-branch]
   schedule:
     - cron: '17 9 * * 1'
   workflow_dispatch:
