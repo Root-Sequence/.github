@@ -6,6 +6,8 @@ Shared contribution guidance, workflow templates, and repository-stewardship pol
 
 [`PROJECT_STEWARDSHIP.md`](PROJECT_STEWARDSHIP.md) defines the maintenance model for reducing repository drift and human memory load through conservative automation.
 
+It also defines the maintenance boundary around the Root Sequence [`RS?` thought-routing convention](https://github.com/Root-Sequence/root-sequence/blob/main/THOUGHT_ROUTING.md): deterministic validation and index repair are automatable; canonical-home, equivalence, canon, visibility, and publication decisions remain review work.
+
 The intended pattern is:
 
 - automate deterministic maintenance

@@ -37,6 +37,8 @@ For consequential work, distinguish clearly between:
 
 Prefer links to canonical material over copied text that will drift.
 
+For a thought or connection that may span repositories, use the Root Sequence [`RS?` routing convention](https://github.com/Root-Sequence/root-sequence/blob/main/THOUGHT_ROUTING.md). Capture it once, search existing homes, and record deliberate project-specific transformations rather than pasting the same note into several repositories.
+
 ## Pull requests
 
 A pull request should make it possible for another contributor to understand:

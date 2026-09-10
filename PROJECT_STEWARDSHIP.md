@@ -109,6 +109,30 @@ When a source node changes, automation should know which documentation nodes des
 
 This prevents the common failure mode where a leaf document is updated but parent READMEs and indexes remain stale.
 
+## Thought-routing stewardship
+
+The organization-wide [`RS?` thought-routing convention](https://github.com/Root-Sequence/root-sequence/blob/main/THOUGHT_ROUTING.md) treats capture records, canonical links, project transformations, queues, and graph projections as another dependency chain.
+
+Project Stewardship may safely:
+
+- validate required capture and provenance fields;
+- detect duplicate stable IDs;
+- verify that an explicit canonical pointer resolves;
+- regenerate declared indexes and graph views;
+- surface routed items whose links or status projections have drifted;
+- report an inbox item that remains unresolved beyond a declared review point.
+
+It must not automatically decide:
+
+- that similar wording makes two ideas equivalent;
+- which project should own ambiguous substance;
+- that a Seed has matured;
+- that a research or worldbuilding note has become canon;
+- that private material is ready to publish;
+- that an old or disconnected capture should be deleted.
+
+The routing workflow chooses and explains meaning. Stewardship remembers the explicit consequences of that choice.
+
 ## Cleanup lifecycle
 
 Prefer explicit lifecycle states over immediate deletion:
