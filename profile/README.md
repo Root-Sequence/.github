@@ -1,10 +1,26 @@
-# [root]sequence
+# Root Sequence
 
 **Root Sequence is a living ecosystem for systems research, exploratory writing, frameworks, practical experiments, speculative worlds, and tools.**
 
 It explores root structures and unfolding sequences: the foundations, relationships, constraints, feedback loops, and emergent processes that shape systems, intelligence, technology, society, and reality.
 
 It is a process, not a blueprint—and a network, not a single linear argument.
+
+## Why the name?
+
+A **root** is an underlying condition, relationship, history, dependency, or constraint from which visible outcomes can grow. A **sequence** is how conditions unfold through time, feedback, choice, adaptation, and consequence.
+
+Together, **Root Sequence** asks: **What conditions made this possible, and what does it make possible next?** Sequences can become roots for whatever follows, so the inquiry is recursive rather than a search for one first cause or one predetermined path.
+
+The spellings **`[root]sequence`** and **`root://sequence`** are visual aliases for the same name, not separate projects or technical protocols. Read the fuller, maintained explanation in **[Why “Root Sequence”?](https://github.com/Root-Sequence/root-sequence/blob/main/concepts/root-sequence.md)**.
+
+## Start here
+
+- **[Website](https://rootsequence.systems):** the shortest public introduction.
+- **[Conceptual commons](https://github.com/Root-Sequence/root-sequence):** broad research, concepts, systems work, analysis, and futures.
+- **[Ecosystem map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md):** project roles, boundaries, relationships, and routing.
+- **[Wiki](https://github.com/Root-Sequence/wiki):** terms, project relationships, provenance, and routes to canonical work.
+- **[Discussions](https://github.com/orgs/Root-Sequence/discussions):** questions, proposals, introductions, and cross-project conversation.
 
 ## The ecosystem at a glance
 
@@ -80,6 +96,17 @@ This organization is a home for work that is:
 
 Repositories may contain stable frameworks, active drafts, fragments, research notes, prototypes, zines, websites, fiction, and early structures for larger projects. Their README files explain local scope and status.
 
+## How to read the language
+
+Root Sequence uses some words in specific working ways, but a shared vocabulary is not a demand for one interpretation everywhere.
+
+- **[Working Vocabulary](https://github.com/Root-Sequence/root-sequence/blob/main/concepts/working-vocabulary.md)** gives the maintained Root Sequence usages of recurring terms such as curiosity, intelligence, empathy, love, connection, and liberation.
+- **[Wiki Lexicon](https://github.com/Root-Sequence/wiki/blob/main/LEXICON.md)** provides shorter definitions, aliases, provenance notes, and routes to canonical homes across projects.
+- **[Founding texts](https://github.com/Root-Sequence/root-sequence/tree/main/founding-texts)** preserve early manifestos, cycles, metaphors, and orientations without making them current doctrine.
+- **[Repository Map](https://github.com/Root-Sequence/root-sequence/blob/main/root_map.md#labels-describe-different-things)** distinguishes a document’s role, maturity, evidence status, and canonical scope.
+
+A poetic fragment, working term, systems principle, design method, and tested model do not automatically carry the same status. Follow the label and the canonical link before treating a phrase as a settled claim.
+
 ## Relationship to Dev11
 
 Root Sequence explores systems in theory and through selected real-world experiments. **Dev11 builds systems in practice.**
@@ -87,13 +114,6 @@ Root Sequence explores systems in theory and through selected real-world experim
 Dev11 and other implementation projects emphasize software, infrastructure, tooling, testing, and execution. Root Sequence emphasizes structure, emergence, history, meaning, power, and possibility. Each can reveal the other's blind spots.
 
 Community Infrastructure sits particularly close to that boundary: it is a Root Sequence project precisely because real implementation and participant research can push back on the ecosystem's abstractions.
-
-## Start here
-
-- **Website:** https://rootsequence.systems  
-- **Ecosystem map:** https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md  
-- **Conceptual commons:** https://github.com/Root-Sequence/root-sequence  
-- **Shared discussions:** https://github.com/Root-Sequence/root-sequence-discussions  
 
 ## Status and licensing
 
