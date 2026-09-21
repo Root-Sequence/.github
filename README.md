@@ -1,6 +1,12 @@
 # Root Sequence organization defaults
 
+> **New, returning, or overloaded? Read [START-HERE.md](START-HERE.md) for the smallest useful map.**
+
 Shared contribution guidance, workflow templates, and repository-stewardship policy for Root Sequence projects.
+
+- [`DOCUMENTATION_SYSTEM.md`](DOCUMENTATION_SYSTEM.md) defines the shared human/AI context layers and typed relationship graph.
+- [`PROJECT_REGISTRY.yml`](PROJECT_REGISTRY.yml) is the public-safe machine-readable project routing index.
+- [`COGNITIVE_ONRAMPS.md`](COGNITIVE_ONRAMPS.md) defines the short `START-HERE.md` layer.
 
 ## Project Stewardship
 
