@@ -169,6 +169,10 @@ projects:
       - {type: organization-infrastructure, target: root-sequence}
 
 external_or_nested_projects:
+  - id: coherent-world-simulation
+    role: playable convergence layer and experiential systems laboratory within Coherent World
+    canonical_home: Root-Sequence/coherent-world/simulation
+    visibility: private-with-public-safe-role-disclosed
   - id: no-one-noticed
     role: narrative expression of Coherent World
     canonical_home: Root-Sequence/coherent-world/no-one-noticed
