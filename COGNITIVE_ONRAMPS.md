@@ -4,6 +4,8 @@ Root Sequence repositories use a root-level `START-HERE.md` as a deliberately sm
 
 The on-ramp is not a replacement README. It answers only enough to help a person form a usable mental model and choose one next route.
 
+Each on-ramp links to `PROJECT-CONTEXT.md`, the consistent comprehensive briefing for people, assistants, and tools. The context file maps canonical sources, present reality, boundaries, structure, relationships, working rules, and its own update contract. See [`DOCUMENTATION_SYSTEM.md`](DOCUMENTATION_SYSTEM.md).
+
 ## Required shape
 
 Each `START-HERE.md` should contain:
@@ -59,7 +61,7 @@ Automation must not:
 - force an update when the on-ramp remains accurate;
 - merge proposals without human review.
 
-The preferred future loop is: **material project change → relevance check → draft proposal if needed → project-owner review → merge**.
+The preferred loop is: **material project change → relevance check → draft `START-HERE.md` and/or `PROJECT-CONTEXT.md` proposal if needed → project-owner review → merge → Wiki/registry projection when relevant**.
 
 ## README link
 
