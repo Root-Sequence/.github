@@ -8,6 +8,8 @@ review_sources: README.md, PROJECT_STEWARDSHIP.md, COGNITIVE_ONRAMPS.md, workflo
 review_when: stewardship policy, shared workflow, onboarding standard, or automation-boundary changes
 END-START-HERE-META -->
 
+For a comprehensive working briefing, continue to [PROJECT-CONTEXT.md](PROJECT-CONTEXT.md).
+
 ## In one sentence
 
 The `.github` repository defines shared contribution guidance, workflow templates, and conservative stewardship conventions for the Root Sequence organization.
