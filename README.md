@@ -4,6 +4,10 @@
 
 Shared contribution guidance, workflow templates, and repository-stewardship policy for Root Sequence projects.
 
+- [`DOCUMENTATION_SYSTEM.md`](DOCUMENTATION_SYSTEM.md) defines the shared human/AI context layers and typed relationship graph.
+- [`PROJECT_REGISTRY.yml`](PROJECT_REGISTRY.yml) is the public-safe machine-readable project routing index.
+- [`COGNITIVE_ONRAMPS.md`](COGNITIVE_ONRAMPS.md) defines the short `START-HERE.md` layer.
+
 ## Project Stewardship
 
 [`PROJECT_STEWARDSHIP.md`](PROJECT_STEWARDSHIP.md) defines the maintenance model for reducing repository drift and human memory load through conservative automation.
