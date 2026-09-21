@@ -1,0 +1,179 @@
+schema_version: root-sequence-project-registry/v1
+visibility: public-safe
+canonical_ecosystem_map: https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md
+wiki_project_index: https://github.com/Root-Sequence/wiki/blob/main/PROJECTS.md
+documentation_standard: DOCUMENTATION_SYSTEM.md
+
+relationship_types:
+  broader-context: supplies a wider conceptual frame
+  focused-inquiry: develops one narrower question
+  grounds: contributes lived, ethical, or evidentiary constraints
+  tests: examines ideas under practical or simulated conditions
+  informs: supplies lessons without controlling the target
+  indexes: makes another project's identity or work findable
+  discussion-hub: hosts cross-project conversation before routing
+  private-overlay: privately extends a public knowledge layer
+  world-design: develops speculative systems and institutions
+  narrative-expression: explores a world or question through story
+  organization-infrastructure: supplies shared maintenance or contribution machinery
+
+projects:
+  - id: root-sequence
+    repository: Root-Sequence/root-sequence
+    visibility: public
+    role: umbrella inquiry and conceptual commons
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md, ECOSYSTEM.md, root_map.md]
+    relationships:
+      - {type: indexes, target: wiki}
+      - {type: discussion-hub, target: root-sequence-discussions}
+
+  - id: liberated-intelligence
+    repository: Root-Sequence/liberated-intelligence
+    visibility: public
+    role: intelligence, agency, ownership, and non-domination inquiry
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md, MODELS.md, meta/map.md]
+    relationships:
+      - {type: focused-inquiry, target: root-sequence}
+      - {type: informs, target: community-infrastructure}
+      - {type: informs, target: coherent-world}
+
+  - id: universal-coherence-framework
+    repository: Root-Sequence/universal-coherence-framework
+    visibility: public
+    role: optional cross-domain analytical framework
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md, docs/claims.md, docs/evidence.md, models/README.md]
+    relationships:
+      - {type: focused-inquiry, target: root-sequence}
+
+  - id: beinghumane-guide
+    repository: Root-Sequence/beinghumane-guide
+    visibility: public
+    role: public field guide grounded in ordinary human experience
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md]
+    relationships:
+      - {type: grounds, target: root-sequence}
+      - {type: informs, target: community-infrastructure}
+
+  - id: beinghumane-atlas
+    repository: Root-Sequence/beinghumane-atlas
+    visibility: private
+    role: private development and synthesis workspace for Being Human(e)
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md, STATUS.md, ATLAS.md]
+    relationships:
+      - {type: informs, target: beinghumane-guide}
+
+  - id: liberation-mass
+    repository: Root-Sequence/liberation-mass
+    visibility: public
+    role: embodied gathering, commons, ritual, and shared practice
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md, docs/README.md]
+    relationships:
+      - {type: focused-inquiry, target: root-sequence}
+      - {type: informs, target: community-infrastructure}
+
+  - id: community-infrastructure
+    repository: Root-Sequence/community-infrastructure
+    visibility: private
+    role: present-world community-controlled systems proving ground
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [STATUS.md, VISION.md, PRINCIPLES.md, ARCHITECTURE.md, ROADMAP.md]
+    relationships:
+      - {type: tests, target: root-sequence}
+      - {type: informs, target: coherent-world}
+
+  - id: coherent-world
+    repository: Root-Sequence/coherent-world
+    visibility: private
+    role: speculative world systems, simulation, and narrative workspace
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md, PROJECT-MAP.md, world/README.md, simulation/README.md]
+    relationships:
+      - {type: world-design, target: root-sequence}
+      - {type: tests, target: coherent-world-simulation}
+      - {type: narrative-expression, target: no-one-noticed}
+
+  - id: coherent-computing
+    repository: Root-Sequence/coherent-computing
+    visibility: private
+    role: concept-first operating-system research and development
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [PROJECT.md, ROADMAP.md, project.json, docs/decisions.md]
+    relationships:
+      - {type: focused-inquiry, target: root-sequence}
+      - {type: informs, target: community-infrastructure}
+
+  - id: good-chaos-music
+    repository: Root-Sequence/good-chaos-music
+    visibility: private
+    role: fictional band and music project
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md, canon, music, sound]
+    relationships:
+      - {type: narrative-expression, target: root-sequence}
+
+  - id: wiki
+    repository: Root-Sequence/wiki
+    visibility: public
+    role: public vocabulary, provenance, relationship, and navigation graph
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md, ARCHITECTURE.md, AUTOMATION.md, PROJECTS.md]
+    relationships:
+      - {type: indexes, target: root-sequence}
+      - {type: private-overlay, target: wiki-private}
+
+  - id: wiki-private
+    repository: Root-Sequence/wiki-private
+    visibility: private
+    role: private overlay for the public Root Sequence knowledge graph
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md, COLLABORATION.md, PRIVATE_PROJECTS.md, SEEDS.md]
+    relationships:
+      - {type: private-overlay, target: wiki}
+
+  - id: root-sequence-discussions
+    repository: Root-Sequence/root-sequence-discussions
+    visibility: public
+    role: cross-project public discussion and coordination hub
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md, GOVERNANCE.md, CONTRIBUTING.md]
+    relationships:
+      - {type: discussion-hub, target: root-sequence}
+
+  - id: organization-infrastructure
+    repository: Root-Sequence/.github
+    visibility: public
+    role: shared organization policy, templates, and stewardship conventions
+    start_here: START-HERE.md
+    project_context: PROJECT-CONTEXT.md
+    status_sources: [README.md, PROJECT_STEWARDSHIP.md, DOCUMENTATION_SYSTEM.md]
+    relationships:
+      - {type: organization-infrastructure, target: root-sequence}
+
+external_or_nested_projects:
+  - id: no-one-noticed
+    role: narrative expression of Coherent World
+    canonical_home: Root-Sequence/coherent-world/no-one-noticed
+    visibility: private-with-deliberate-public-projection
+  - id: museum-of-ordinary-life
+    role: autonomous real-world archive with a deliberate fictional counterpart
+    canonical_home: autonomous
+    visibility: independently-governed
