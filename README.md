@@ -1,5 +1,7 @@
 # Root Sequence organization defaults
 
+> **New, returning, or overloaded? Read [START-HERE.md](START-HERE.md) for the smallest useful map.**
+
 Shared contribution guidance, workflow templates, and repository-stewardship policy for Root Sequence projects.
 
 ## Project Stewardship
