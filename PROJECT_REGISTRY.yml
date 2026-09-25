@@ -97,7 +97,7 @@ projects:
   - id: coherent-world
     repository: Root-Sequence/coherent-world
     visibility: private
-    role: speculative world systems, simulation, and narrative workspace
+    role: private recombination and consequence laboratory for speculative world systems and simulation
     start_here: START-HERE.md
     project_context: PROJECT-CONTEXT.md
     status_sources: [README.md, PROJECT-MAP.md, world/README.md, simulation/README.md]
