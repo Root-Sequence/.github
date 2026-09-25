@@ -169,6 +169,13 @@ projects:
       - {type: organization-infrastructure, target: root-sequence}
 
 external_or_nested_projects:
+  - id: commons-of-inquiry
+    role: proposed residential commons for inquiry, creation, experimentation, and ordinary life
+    canonical_home: pending
+    current_home: Root-Sequence/root-sequence/incubator/commons-of-inquiry
+    intended_home: Root-Sequence/commons-of-inquiry
+    visibility: public-seed
+    status: bootstrap seed; standalone repository and operating institution not yet established
   - id: no-one-noticed
     role: narrative expression of Coherent World
     canonical_home: Root-Sequence/coherent-world/no-one-noticed
