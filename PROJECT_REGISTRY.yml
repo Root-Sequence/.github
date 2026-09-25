@@ -21,10 +21,10 @@ projects:
   - id: root-sequence
     repository: Root-Sequence/root-sequence
     visibility: public
-    role: umbrella inquiry and conceptual commons
+    role: transdisciplinary inquiry, synthesis, and design router; conceptual commons
     start_here: START-HERE.md
     project_context: PROJECT-CONTEXT.md
-    status_sources: [README.md, ECOSYSTEM.md, root_map.md]
+    status_sources: [README.md, ECOSYSTEM.md, root_map.md, research/method.md]
     relationships:
       - {type: indexes, target: wiki}
       - {type: discussion-hub, target: root-sequence-discussions}
