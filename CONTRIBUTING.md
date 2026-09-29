@@ -25,6 +25,26 @@ Use this checklist as applicable:
 
 Do not update documents mechanically or duplicate the same explanation everywhere. The goal is **coherence without duplication**: important changes should be discoverable from the right entry points, while detailed material should remain canonical in the most appropriate place.
 
+## Shared epistemic practice
+
+Root Sequence treats inquiry as error-correcting infrastructure. The canonical methods live in the conceptual commons:
+
+- [Epistemic Contrast](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/epistemic-contrast.md)
+- [Deliberative Inquiry](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/deliberative-inquiry.md)
+- [Collective Judgment and Manufactured Consensus](https://github.com/Root-Sequence/root-sequence/blob/main/analysis/collective-judgment-and-manufactured-consensus.md)
+
+Repository-specific work should **translate rather than duplicate** these methods. As applicable:
+
+- seek contrasting roles, assumptions, incentives, and affected perspectives before treating a model as complete;
+- distinguish factual, causal, definitional, probabilistic, and normative disagreement;
+- weight claims by evidence and method rather than by the number or status of people asserting them;
+- record uncertainty, counterexamples, and what would change the current model;
+- for consequential collective decisions, build sufficient shared understanding before authorization;
+- preserve dissent and process-integrity concerns instead of manufacturing consensus;
+- observe outcomes and revise when reality contradicts the model.
+
+A useful shorthand is **“reality gets veto power.”** It means no Root Sequence conclusion is protected from revision merely because it is elegant, familiar, politically congenial, or already embedded in a project.
+
 ## Make decisions legible
 
 For consequential work, distinguish clearly between:
