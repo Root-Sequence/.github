@@ -29,6 +29,15 @@ projects:
       - {type: indexes, target: wiki}
       - {type: discussion-hub, target: root-sequence-discussions}
 
+  - id: existential-euphoria
+    repository: Root-Sequence/existential-euphoria
+    visibility: public
+    role: in-formation aesthetic and experiential framework for existence, contradiction, interdependence, and possibility
+    status_sources: [README.md, ROOT-SEQUENCE.md]
+    relationships:
+      - {type: informs, target: root-sequence}
+      - {type: informs, target: beinghumane-guide}
+
   - id: liberated-intelligence
     repository: Root-Sequence/liberated-intelligence
     visibility: public
@@ -60,6 +69,7 @@ projects:
     status_sources: [README.md]
     relationships:
       - {type: grounds, target: root-sequence}
+      - {type: grounds, target: existential-euphoria}
       - {type: informs, target: community-infrastructure}
 
   - id: beinghumane-atlas
