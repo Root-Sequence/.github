@@ -21,13 +21,22 @@ projects:
   - id: root-sequence
     repository: Root-Sequence/root-sequence
     visibility: public
-    role: umbrella inquiry and conceptual commons
+    role: transdisciplinary inquiry, synthesis, and design router; conceptual commons
     start_here: START-HERE.md
     project_context: PROJECT-CONTEXT.md
-    status_sources: [README.md, ECOSYSTEM.md, root_map.md]
+    status_sources: [README.md, ECOSYSTEM.md, root_map.md, research/method.md]
     relationships:
       - {type: indexes, target: wiki}
       - {type: discussion-hub, target: root-sequence-discussions}
+
+  - id: existential-euphoria
+    repository: Root-Sequence/existential-euphoria
+    visibility: public
+    role: in-formation aesthetic and experiential framework for existence, contradiction, interdependence, and possibility
+    status_sources: [README.md, ROOT-SEQUENCE.md]
+    relationships:
+      - {type: informs, target: root-sequence}
+      - {type: informs, target: beinghumane-guide}
 
   - id: liberated-intelligence
     repository: Root-Sequence/liberated-intelligence
@@ -60,6 +69,7 @@ projects:
     status_sources: [README.md]
     relationships:
       - {type: grounds, target: root-sequence}
+      - {type: grounds, target: existential-euphoria}
       - {type: informs, target: community-infrastructure}
 
   - id: beinghumane-atlas
@@ -97,7 +107,7 @@ projects:
   - id: coherent-world
     repository: Root-Sequence/coherent-world
     visibility: private
-    role: speculative world systems, simulation, and narrative workspace
+    role: private recombination and consequence laboratory for speculative world systems and simulation
     start_here: START-HERE.md
     project_context: PROJECT-CONTEXT.md
     status_sources: [README.md, PROJECT-MAP.md, world/README.md, simulation/README.md]
@@ -176,6 +186,10 @@ external_or_nested_projects:
     intended_home: Root-Sequence/commons-of-inquiry
     visibility: public-seed
     status: bootstrap seed; standalone repository and operating institution not yet established
+  - id: coherent-world-simulation
+    role: playable convergence layer and experiential systems laboratory within Coherent World
+    canonical_home: Root-Sequence/coherent-world/simulation
+    visibility: private-with-public-safe-role-disclosed
   - id: no-one-noticed
     role: narrative expression of Coherent World
     canonical_home: Root-Sequence/coherent-world/no-one-noticed

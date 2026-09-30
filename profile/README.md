@@ -83,6 +83,18 @@ A real prototype can expose that an elegant theory ignored moderation, maintenan
 
 Every durable idea should still have **one canonical home**. Other projects link to it, test it, transform it, or tell a story through it rather than silently maintaining competing copies.
 
+## How Root Sequence inquires
+
+Root Sequence is designed to remain revisable rather than accumulate protected conclusions. Shared methods in the conceptual commons include [Epistemic Contrast](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/epistemic-contrast.md) and [Deliberative Inquiry](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/deliberative-inquiry.md).
+
+A compact organization-level loop is:
+
+```text
+question → contrast → evidence → model → deliberation → action → observation → revision
+```
+
+Different projects translate that loop differently. Research may compare competing explanations; community infrastructure may test governance protocols; speculative work may stress-test consequences; implementation may expose assumptions the theory missed. **No conclusion becomes protected merely because it belongs to Root Sequence.**
+
 ## What lives here
 
 This organization is a home for work that is:
