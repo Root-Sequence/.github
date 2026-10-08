@@ -70,3 +70,13 @@ A pull request should make it possible for another contributor to understand:
 5. what remains unresolved, if anything.
 
 Use the organization pull-request template when a repository does not define its own.
+
+## Collaboration and bounded openness
+
+The shared [commons collaboration proposal](https://github.com/Root-Sequence/root-sequence/blob/main/commons/README.md#collaboration-as-a-living-experiment) welcomes corrections, counterexamples, alternative models, domain expertise, lived experience, and small contributions. Agreement with an originator or the whole ecosystem is not a prerequisite. Give claims appropriate evidence and keep normative disagreement visible.
+
+Contribution does not confer merge, moderation, administrative, data-access, or publication authority. Use branches and review for consequential changes. Public branches and PRs are public publication surfaces; private drafts and participant material require explicit promotion before crossing that boundary.
+
+Document consequential powers and unresolved objections. Conduct boundaries should protect participation while leaving criticism possible. Repair is voluntary and must not require reconciliation or exposure. Make pauses, handoffs, smaller scope, and departure ordinary options; a fork remains bounded by licenses, third-party rights, and privacy.
+
+When proposing a collaboration experiment, identify the question, affected perspectives, burdens, authority, observations, review/stop conditions, and limits. Participation in repository work is not enrollment in participant research. Extend existing project processes; do not infer a new governing body or lift a project hold from this default guide.

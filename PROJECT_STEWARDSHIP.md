@@ -195,3 +195,11 @@ A repository that has not adopted stewardship should continue working normally.
 A healthy project should require less remembering over time, not more.
 
 The maintenance layer exists so people can spend attention on exploration, learning, building, revising, connecting ideas, and adapting to new constraints instead of repeatedly reconstructing what routine maintenance was forgotten.
+
+## Human stewardship and adaptation
+
+**Proposed review prompts, not newly assigned roles or configured automation.** Extend the existing maintenance model by making consequential powers and burdens inspectable: actual maintainer, scope of access, decision authority, review route, handoff, and revocation. Maintenance labor does not automatically grant wider project authority.
+
+Ask whether the process depends on an irreplaceable person, consumes more attention than it saves, discourages criticism, or transfers unpaid work to someone else. Stepping away, reducing scope, and retiring a project are legitimate outcomes. A handoff should preserve the minimum operational knowledge and authorized access without retaining unnecessary personal information.
+
+Use voluntary feedback and bounded records to compare expected and actual maintenance costs. Record missing evidence and unresolved dissent. Silence, inactivity, and fewer contributions are ambiguous; they do not authorize deletion, publication, expanded automation, or changes to governance. Review signals should lead to a scoped proposal or a decision to stop, not a universal reputation or productivity score.
