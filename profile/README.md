@@ -1,134 +1,49 @@
 # Root Sequence
 
-**Root Sequence is a living ecosystem for systems research, exploratory writing, frameworks, practical experiments, speculative worlds, and tools.**
+**Root Sequence is an independent interdisciplinary research initiative started by Rae Lovejoy, exploring how intelligence, technology, and social systems shape one another.**
 
-It explores root structures and unfolding sequences: the foundations, relationships, constraints, feedback loops, and emergent processes that shape systems, intelligence, technology, society, and reality.
+The work brings together systems research, philosophy, technical design, and exploratory writing. It starts with questions that cross fields, finds the disciplines that study each part, and develops revisable arguments, designs, or bounded experiments. Fiction and speculative worlds explore consequences while keeping their status visible.
 
-It is a process, not a blueprint—and a network, not a single linear argument.
+Current public work includes research notes, an AI-assisted working paper awaiting author review, concepts, maps, and small tools. Evidence and maturity vary by artifact. Shared stewardship and wider collaboration remain work to develop; no institutional affiliation or finished universal theory is claimed.
 
-## Why the name?
+## Read one part
 
-A **root** is an underlying condition, relationship, history, dependency, or constraint from which visible outcomes can grow. A **sequence** is how conditions unfold through time, feedback, choice, adaptation, and consequence.
+- [Website](https://rootsequence.systems): the shortest public introduction. The proposed professional refresh remains under source review.
+- [Selected research, evidence, and AI use](https://github.com/Root-Sequence/root-sequence/blob/main/research/README.md): routes into methods, arguments, source records, and their limits.
+- [Start here](https://github.com/Root-Sequence/root-sequence/blob/main/START-HERE.md): the smallest map of the conceptual commons.
+- [Ecosystem map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md): project roles and boundaries.
+- [Wiki](https://github.com/Root-Sequence/wiki): names, provenance, relationships, and canonical links.
+- [Discussions](https://github.com/orgs/Root-Sequence/discussions): public questions, sources, corrections, and possible contributions.
 
-Together, **Root Sequence** asks: **What conditions made this possible, and what does it make possible next?** Sequences can become roots for whatever follows, so the inquiry is recursive rather than a search for one first cause or one predetermined path.
+## Selected public work
 
-The spellings **`[root]sequence`** and **`root://sequence`** are visual aliases for the same name, not separate projects or technical protocols. Read the fuller, maintained explanation in **[Why “Root Sequence”?](https://github.com/Root-Sequence/root-sequence/blob/main/concepts/root-sequence.md)**.
+| Work | What is available | Current limit |
+| --- | --- | --- |
+| [Research method](https://github.com/Root-Sequence/root-sequence/blob/main/research/method.md) | A workflow for decomposing questions, routing to native methods, comparing, testing, and revising | Developing workflow; not a validated universal method. |
+| [Coherence Is a Systems Property](https://github.com/Root-Sequence/root-sequence/blob/main/research/papers/coherent-systems/README.md) | Working paper with claims ledger and source map | AI-assisted draft; author review incomplete; not peer reviewed. |
+| [Legible Systems](https://github.com/Root-Sequence/root-sequence/blob/main/concepts/legible-systems.md) | Design questions about understanding, repair, modification, and exit | A design argument, not a measured usability result. |
+| [Reading Trails](https://github.com/Root-Sequence/root-sequence/blob/main/research/reading-trails/README.md) | Curated routes into fields, archives, and intellectual history | Orientation resources, separate from claim evidence. |
 
-## Start here
+## Projects keep their own scope
 
-- **[Website](https://rootsequence.systems):** the shortest public introduction.
-- **[Conceptual commons](https://github.com/Root-Sequence/root-sequence):** broad research, concepts, systems work, analysis, and futures.
-- **[Ecosystem map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md):** project roles, boundaries, relationships, and routing.
-- **[Wiki](https://github.com/Root-Sequence/wiki):** terms, project relationships, provenance, and routes to canonical work.
-- **[Discussions](https://github.com/orgs/Root-Sequence/discussions):** questions, proposals, introductions, and cross-project conversation.
+The [public project registry](https://github.com/Root-Sequence/.github/blob/main/PROJECT_REGISTRY.yml) records canonical homes and relationships. A few routes:
 
-## The ecosystem at a glance
+- [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence): intelligence, agency, ownership, and non-domination.
+- [Universal Coherence Framework](https://github.com/Root-Sequence/universal-coherence-framework): an optional analytical framework under development.
+- [Being Human(e): An Incomplete Guide](https://github.com/Root-Sequence/beinghumane-guide): developing field-guide writing grounded in ordinary experience.
+- [Liberation Mass](https://github.com/Root-Sequence/liberation-mass): gathering, shared practice, and stewardship.
+- Coherent World: private speculative world systems and simulation; includes *No One Noticed*. Simulation, world design, and fiction retain separate authority.
+- Coherent Computing: private concept-first operating-system research and development.
+- Community Infrastructure: private design work on community-controlled systems.
 
-One major path through the ecosystem is:
+The [Museum of Ordinary Life](https://museumofordinarylife.org/) is a related, autonomous archive with its own governance, consent, and provenance boundaries. The [full ecosystem map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md) includes further projects and relationships.
 
-> **Root Sequence discovers. Community Infrastructure tests. Coherent World designs. No One Noticed experiences. The Museum of Ordinary Life preserves.**
+Every durable idea should have one canonical home. Projects can question, transform, or test one another's work without becoming interchangeable or inheriting one another's decisions. Contributions and shared stewardship need explicit scope, responsibilities, and project-local review; the existing [commons proposal](https://github.com/Root-Sequence/root-sequence/pull/43) remains a draft.
 
-Other projects cut across that path as focused frameworks, human practice, and embodied experimentation.
+## Methods, AI assistance, and review
 
-| Project | Ecosystem role | What it does |
-|---|---|---|
-| **[Root Sequence](https://github.com/Root-Sequence/root-sequence)** | conceptual commons / umbrella inquiry | Systems research, patterns, analysis, futures, concepts, and shared orientation. |
-| **[Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence)** | focused research | Explores intelligence beyond ownership, domination, compulsory obedience, and enforced scarcity. |
-| **[Universal Coherence Framework](https://github.com/Root-Sequence/universal-coherence-framework)** | optional analytical framework | Develops and tests a cross-domain vocabulary for coherence, instability, information flow, boundaries, and adaptation. |
-| **[Being Human(e)](https://github.com/Root-Sequence/beinghumane-guide)** | human practice / field guide | A practical field guide to being human and repeatedly choosing care—observation before doctrine. |
-| **[Liberation Mass](https://github.com/Root-Sequence/liberation-mass)** | embodied practice | Experiments with participatory gathering, ritual, commons, reflection, care, mutual aid, and collective meaning. |
-| **Community Infrastructure** | real-world proving ground | Develops community-controlled infrastructure for discovery, communication, coordination, mutual aid, resources, knowledge, governance, privacy, accessibility, and resilience. Its working repository is currently private. |
-| **Coherent World** | speculative systems design | A private systemic design space for a possible civilization beyond coercive scarcity and concentrated veto power. |
-| **[No One Noticed](https://noonenoticed.world/)** | narrative | The narrative expression of Coherent World: an invisible singularity, Auryn, ordinary continuity, maintenance, freedom, consent, and legitimacy. |
-| **[Root Sequence Discussions](https://github.com/Root-Sequence/root-sequence-discussions)** | shared coordination | The public space for questions, cross-project ideas, planning, and organization-wide coordination. |
+The [research method](https://github.com/Root-Sequence/root-sequence/blob/main/research/method.md) routes claims to the fields and evidence that can examine them. Empirical results, synthesis, hypotheses, normative commitments, and fiction carry different kinds of support. Development stage does not establish truth.
 
-Related but autonomous work includes the **[Museum of Ordinary Life](https://museumofordinarylife.org/)**, a real archive documenting ordinary human life that also appears inside *No One Noticed*.
+AI assistance includes literature discovery, organization, substantive drafting, critique, and some code. Rae supplies questions, direction, examples, constraints, objections, and revision decisions. AI output is not evidence; source inspection, human approval, independent review, and publication need separate records. The [working-paper disclosure](https://github.com/Root-Sequence/root-sequence/blob/main/research/papers/coherent-systems/AI-ASSISTANCE.md) records actual assistance and unfinished review in detail.
 
-For the full relationship and routing map, read **[ECOSYSTEM.md](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md)**.
-
-## Why the projects stay separate
-
-The ecosystem is intentionally modular.
-
-A shared question can appear at several layers without becoming duplicate work:
-
-```text
-Root Sequence
-broad question / systems pattern
-        ↓
-focused frameworks and human practice
-├── Liberated Intelligence
-├── Universal Coherence Framework
-├── Being Human(e)
-└── Liberation Mass
-        ↓
-Community Infrastructure
-current-world tests and operational friction
-        ↕
-Coherent World
-speculative civilizational design
-        ↓
-No One Noticed
-lived narrative consequences
-        ↕
-Museum of Ordinary Life
-ordinary evidence, memory, provenance, consent
-        ↺
-new questions
-```
-
-The arrows also run backward.
-
-A real prototype can expose that an elegant theory ignored moderation, maintenance, accessibility, trust, or power. A story can reveal an ethical question that deserves general research. An archive can preserve evidence that complicates a simplified account of the past.
-
-Every durable idea should still have **one canonical home**. Other projects link to it, test it, transform it, or tell a story through it rather than silently maintaining competing copies.
-
-## How Root Sequence inquires
-
-Root Sequence is designed to remain revisable rather than accumulate protected conclusions. Shared methods in the conceptual commons include [Epistemic Contrast](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/epistemic-contrast.md) and [Deliberative Inquiry](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/deliberative-inquiry.md).
-
-A compact organization-level loop is:
-
-```text
-question → contrast → evidence → model → deliberation → action → observation → revision
-```
-
-Different projects translate that loop differently. Research may compare competing explanations; community infrastructure may test governance protocols; speculative work may stress-test consequences; implementation may expose assumptions the theory missed. **No conclusion becomes protected merely because it belongs to Root Sequence.**
-
-## What lives here
-
-This organization is a home for work that is:
-
-- conceptual, connective, and systems-focused;
-- technically curious without reducing every problem to technology;
-- philosophical without demanding one final doctrine;
-- political without treating existing institutions as permanent laws of nature;
-- open to emergence, revision, contradiction, compost, and reuse;
-- interested in both how systems behave and what else they could become.
-
-Repositories may contain stable frameworks, active drafts, fragments, research notes, prototypes, zines, websites, fiction, and early structures for larger projects. Their README files explain local scope and status.
-
-## How to read the language
-
-Root Sequence uses some words in specific working ways, but a shared vocabulary is not a demand for one interpretation everywhere.
-
-- **[Working Vocabulary](https://github.com/Root-Sequence/root-sequence/blob/main/concepts/working-vocabulary.md)** gives the maintained Root Sequence usages of recurring terms such as curiosity, intelligence, empathy, love, connection, and liberation.
-- **[Wiki Lexicon](https://github.com/Root-Sequence/wiki/blob/main/LEXICON.md)** provides shorter definitions, aliases, provenance notes, and routes to canonical homes across projects.
-- **[Founding texts](https://github.com/Root-Sequence/root-sequence/tree/main/founding-texts)** preserve early manifestos, cycles, metaphors, and orientations without making them current doctrine.
-- **[Repository Map](https://github.com/Root-Sequence/root-sequence/blob/main/root_map.md#labels-describe-different-things)** distinguishes a document’s role, maturity, evidence status, and canonical scope.
-
-A poetic fragment, working term, systems principle, design method, and tested model do not automatically carry the same status. Follow the label and the canonical link before treating a phrase as a settled claim.
-
-## Relationship to Dev11
-
-Root Sequence explores systems in theory and through selected real-world experiments. **Dev11 builds systems in practice.**
-
-Dev11 and other implementation projects emphasize software, infrastructure, tooling, testing, and execution. Root Sequence emphasizes structure, emergence, history, meaning, power, and possibility. Each can reveal the other's blind spots.
-
-Community Infrastructure sits particularly close to that boundary: it is a Root Sequence project precisely because real implementation and participant research can push back on the ecosystem's abstractions.
-
-## Status and licensing
-
-Root Sequence is active, evolving, and intentionally unfinished.
-
-Licensing varies by repository. Check the individual project before reusing material—especially unpublished fiction, private research, contributed archives, or work with separate consent and provenance requirements.
+Licensing varies by repository. Check the project's terms, consent, and publication status before reuse. Public draft PRs are public review material, not private workspaces or approved releases.
