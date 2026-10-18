@@ -44,6 +44,12 @@ Every durable idea should have one canonical home. Projects can question, transf
 
 The [research method](https://github.com/Root-Sequence/root-sequence/blob/main/research/method.md) routes claims to the fields and evidence that can examine them. Empirical results, synthesis, hypotheses, normative commitments, and fiction carry different kinds of support. Development stage does not establish truth.
 
-AI assistance includes literature discovery, organization, substantive drafting, critique, and some code. Rae supplies questions, direction, examples, constraints, objections, and revision decisions. AI output is not evidence; source inspection, human approval, independent review, and publication need separate records. The [working-paper disclosure](https://github.com/Root-Sequence/root-sequence/blob/main/research/papers/coherent-systems/AI-ASSISTANCE.md) records actual assistance and unfinished review in detail.
+Rae Lovejoy uses AI both as an accessibility aid and as a tool for developing Root Sequence. It helps gather connected ideas, organize material, and develop drafts Rae can review in manageable pieces.
+
+Rae contributes motivating questions, conceptual direction, connections across projects, examples, constraints, objections, and revision decisions. AI contributes literature discovery, synthesis, critique, substantial drafting, and some code, including proposed connections and interpretations. Some ideas develop through the exchange.
+
+AI output is not evidence. Sources and reasoning need checking, and a draft does not automatically represent Rae’s endorsement. Review status is recorded alongside the work.
+
+Read the fuller [accessibility and contribution explanation](https://github.com/Root-Sequence/root-sequence/blob/main/research/README.md#accessibility-ai-assistance-and-contributions) and the working paper's [detailed assistance record](https://github.com/Root-Sequence/root-sequence/blob/main/research/papers/coherent-systems/AI-ASSISTANCE.md).
 
 Licensing varies by repository. Check the project's terms, consent, and publication status before reuse. Public draft PRs are public review material, not private workspaces or approved releases.
