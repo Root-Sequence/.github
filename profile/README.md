@@ -38,7 +38,9 @@ The [public project registry](https://github.com/Root-Sequence/.github/blob/main
 
 The [Museum of Ordinary Life](https://museumofordinarylife.org/) is a related, autonomous archive with its own governance, consent, and provenance boundaries. The [full ecosystem map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md) includes further projects and relationships.
 
-Every durable idea should have one canonical home. Projects can question, transform, or test one another's work without becoming interchangeable or inheriting one another's decisions. Contributions and shared stewardship need explicit scope, responsibilities, and project-local review; the existing [commons proposal](https://github.com/Root-Sequence/root-sequence/pull/43) remains a draft.
+Each project keeps its own scope and review process. Related projects can develop an idea without inheriting one another’s decisions; its detailed treatment stays in one canonical home.
+
+Contributions can question the work as well as extend it. The [commons collaboration proposal](https://github.com/Root-Sequence/root-sequence/pull/43) explores how people could share responsibility for maintaining a project, with clear limits on who can decide what. It leaves room for disagreement and for people to leave or develop a separate version. This remains a proposal for review.
 
 ## Methods, AI assistance, and review
 
