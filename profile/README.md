@@ -42,7 +42,11 @@ Every durable idea should have one canonical home. Projects can question, transf
 
 ## Methods, AI assistance, and review
 
-The [research method](https://github.com/Root-Sequence/root-sequence/blob/main/research/method.md) routes claims to the fields and evidence that can examine them. Empirical results, synthesis, hypotheses, normative commitments, and fiction carry different kinds of support. Development stage does not establish truth.
+Root Sequence starts with questions that cross fields. We break them into smaller questions, identify the research and methods that can address each one, and examine how the findings connect.
+
+Differences between fields, competing explanations, and unanswered questions stay visible. Evidence and criticism can change the argument or show that a proposed connection does not hold.
+
+Read the full [research method](https://github.com/Root-Sequence/root-sequence/blob/main/research/method.md). Empirical results, synthesis, hypotheses, normative commitments, and fiction carry different kinds of support. Development stage does not establish truth.
 
 Rae Lovejoy uses AI both as an accessibility aid and as a tool for developing Root Sequence. It helps gather connected ideas, organize material, and develop drafts Rae can review in manageable pieces.
 
