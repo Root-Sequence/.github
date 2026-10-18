@@ -2,9 +2,9 @@
 
 **Root Sequence is an independent interdisciplinary research initiative started by Rae Lovejoy, exploring how intelligence, technology, and social systems shape one another.**
 
-The work brings together systems research, philosophy, technical design, and exploratory writing. It starts with questions that cross fields, finds the disciplines that study each part, and develops revisable arguments, designs, or bounded experiments. Fiction and speculative worlds explore consequences while keeping their status visible.
+The work starts with questions that cross fields and follows them into the research and methods suited to each part. Technical design sits alongside philosophical inquiry. Fiction and speculative worlds offer room to explore consequences, with their status kept visible.
 
-Current public work includes research notes, an AI-assisted working paper awaiting author review, concepts, maps, and small tools. Evidence and maturity vary by artifact. Shared stewardship and wider collaboration remain work to develop; no institutional affiliation or finished universal theory is claimed.
+Current public work ranges from research notes to small tools. The AI-assisted working paper still awaits author review. Evidence varies across the project. Shared stewardship and wider collaboration remain work to develop; no institutional affiliation or finished universal theory is claimed.
 
 ## Read one part
 
@@ -46,7 +46,11 @@ Root Sequence starts with questions that cross fields. We break them into smalle
 
 Differences between fields, competing explanations, and unanswered questions stay visible. Evidence and criticism can change the argument or show that a proposed connection does not hold.
 
-Read the full [research method](https://github.com/Root-Sequence/root-sequence/blob/main/research/method.md). Empirical results, synthesis, hypotheses, normative commitments, and fiction carry different kinds of support. Development stage does not establish truth.
+The source notes should let readers follow a claim back to the work supporting it. They should explain how closely we examined the source and where we have gone beyond it to offer an interpretation.
+
+A test we propose is still an idea until it has been run. When reporting results, we describe how they were obtained, including whether anyone else has independently repeated the work. Unresolved questions remain visible after publication.
+
+Read the full [research method](https://github.com/Root-Sequence/root-sequence/blob/main/research/method.md) for the workflow and source-record requirements.
 
 Rae Lovejoy uses AI both as an accessibility aid and as a tool for developing Root Sequence. It helps gather connected ideas, organize material, and develop drafts Rae can review in manageable pieces.
 
