@@ -132,7 +132,3 @@ Community Infrastructure sits particularly close to that boundary: it is a Root 
 Root Sequence is active, evolving, and intentionally unfinished.
 
 Licensing varies by repository. Check the individual project before reusing material—especially unpublished fiction, private research, contributed archives, or work with separate consent and provenance requirements.
-
-## Collaborating and learning together
-
-Root Sequence welcomes questioning, correction, counterexamples, and local adaptations. The [commons collaboration proposal](https://github.com/Root-Sequence/root-sequence/blob/main/commons/README.md#collaboration-as-a-living-experiment) develops bounded openness, protected disagreement, accountable powers, voluntary repair, sustainable maintenance, and useful departure. Each repository retains its own scope and decision process; participation does not require agreement with one originator or adoption of the whole ecosystem.
