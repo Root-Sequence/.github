@@ -2,7 +2,7 @@
 
 **Root Sequence is an independent interdisciplinary research initiative exploring how intelligence, technology, and social systems shape one another.**
 
-Root Sequence explores how the systems we build shape what becomes possible next. It looks beyond whether a design achieves its immediate goal to ask how it changes the conditions people depend on.
+The work asks how the systems we build shape what becomes possible next. This means looking beyond whether a design achieves its immediate goal to consider how it changes the conditions people depend on.
 
 You can follow work already underway or bring a question of your own.
 
