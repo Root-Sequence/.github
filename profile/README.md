@@ -6,14 +6,16 @@ The work asks how the systems we build shape what becomes possible next. This me
 
 You can follow work already underway or bring a question of your own.
 
-## Read one part
+## Where to begin
 
-- [Website](https://rootsequence.systems/): an introduction to the initiative, selected work, and ways to take part.
-- [Research index](https://github.com/Root-Sequence/root-sequence/blob/main/research/README.md): routes into the research and its canonical sources. The website explains [methods, evidence, and AI use](https://rootsequence.systems/#research-practice).
-- [Start here](https://github.com/Root-Sequence/root-sequence/blob/main/START-HERE.md): the smallest map of the conceptual commons.
-- [Ecosystem map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md): project roles and boundaries.
-- [Wiki](https://github.com/Root-Sequence/wiki): names, provenance, relationships, and canonical links.
-- [Discussions](https://github.com/Root-Sequence/root-sequence-discussions/discussions): talk through a question or ask where a contribution might fit. Posts are public and require a GitHub account.
+- [Website](https://rootsequence.systems/): an introduction to the work, with an everyday example.
+- [Research index](https://github.com/Root-Sequence/root-sequence/blob/main/research/README.md): find the longer research documents and their source notes. The website explains [methods, evidence, and AI use](https://rootsequence.systems/#research-practice).
+- [Start here](https://github.com/Root-Sequence/root-sequence/blob/main/START-HERE.md): a short guide to the research repository.
+- [Ecosystem map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md): see how the projects connect and what belongs in each one.
+- [Wiki](https://github.com/Root-Sequence/wiki): look up recurring terms and find the work they refer to.
+- [Discussions](https://github.com/Root-Sequence/root-sequence-discussions/discussions): talk through a question or ask where a contribution might fit.
+
+Discussions are public and require a GitHub account to post. Keep private or sensitive information out of public posts.
 
 ## Selected public work
 
