@@ -10,7 +10,7 @@ Shared contribution guidance, workflow templates, and repository-stewardship pol
 
 ## Public introduction
 
-[`profile/README.md`](profile/README.md) is the organization-facing introduction. Shared positioning describes Root Sequence as an independent interdisciplinary research initiative; research substance and evidence records remain in the conceptual commons and project repositories. The [professional-refresh source review](https://github.com/Root-Sequence/root-sequence/pull/46) contains the canonical `ROADMAP.md` checklist; do not create a second backlog here.
+[`profile/README.md`](profile/README.md) is the organization-facing introduction. Shared positioning describes Root Sequence as an independent interdisciplinary research initiative; research substance and evidence records remain in the conceptual commons and project repositories. The website refresh is [published](https://rootsequence.systems/). The [professional-refresh source review](https://github.com/Root-Sequence/root-sequence/pull/46) contains the canonical `ROADMAP.md` checklist; remaining repository/profile changes stay in their draft PRs. Do not create a second backlog here.
 
 ## Project Stewardship
 
