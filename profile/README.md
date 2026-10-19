@@ -17,11 +17,11 @@ You can follow work already underway or bring a question of your own.
 
 Discussions are public and require a GitHub account to post. Keep private or sensitive information out of public posts.
 
-## Selected public work
+## Selected research and writing
 
 | Work | What you can read | Current limit |
 | --- | --- | --- |
-| [Research method](https://github.com/Root-Sequence/root-sequence/blob/main/research/method.md) | A guide to examining a connection between ideas and finding the research that can address it. | This workflow is still developing. Its usefulness across different kinds of research hasn’t been established. |
+| [Research method](https://github.com/Root-Sequence/root-sequence/blob/main/research/method.md) | A guide to examining a connection between ideas and finding research that can help us assess it. | This workflow is still developing. Its usefulness across different kinds of research hasn’t been established. |
 | [Coherence Is a Systems Property](https://github.com/Root-Sequence/root-sequence/blob/main/research/papers/coherent-systems/README.md) | A working paper asking what we need to examine beyond an intelligent system’s stated goal. | AI-assisted working draft. Author review is incomplete; it has not been peer reviewed. |
 | [Adaptive continuity and dynamic coherence](https://github.com/Root-Sequence/root-sequence/blob/main/concepts/dynamic-coherence.md) | A working framework about adapting as conditions change while preserving or rebuilding the capacity to continue. | AI-assisted working synthesis; author review is incomplete. Similarities across fields don’t establish that the same process is at work. |
 | [Epistemic discoverability and knowledge routing](https://github.com/Root-Sequence/root-sequence/blob/main/concepts/epistemic-discoverability.md) | A design concept for finding relevant research when you don’t yet know what to call your question. | AI-assisted design proposal; author review is incomplete. Its usefulness for finding research hasn’t been established. |
