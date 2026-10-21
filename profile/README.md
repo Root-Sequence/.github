@@ -28,9 +28,9 @@ Discussions are public and require a GitHub account to post. Keep private or sen
 | [Legible Systems](https://github.com/Root-Sequence/root-sequence/blob/main/concepts/legible-systems.md) | Design guidance for systems that are straightforward to use, with deeper explanations available when you need to repair a fault or question a decision. | Developing design guidance. Its effects on usability still need evaluation. |
 | [Reading Trails](https://github.com/Root-Sequence/root-sequence/blob/main/research/reading-trails/README.md) | Keeps track of places worth exploring that turn up during research. The notes explain why a resource might be useful and suggest somewhere to begin. | Developing collection, including AI-assisted starter trails awaiting author review. A resource’s inclusion doesn’t establish support for a claim. |
 
-## Projects keep their own scope
+## Selected related projects
 
-The [public project registry](https://github.com/Root-Sequence/.github/blob/main/PROJECT_REGISTRY.yml) records canonical homes and relationships. A few routes:
+These projects share questions and each sets its own direction. The [project registry](https://github.com/Root-Sequence/.github/blob/main/PROJECT_REGISTRY.yml) records where their work is maintained.
 
 - [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence): intelligence, agency, ownership, and non-domination.
 - [Universal Coherence Framework](https://github.com/Root-Sequence/universal-coherence-framework): an optional analytical framework under development.
