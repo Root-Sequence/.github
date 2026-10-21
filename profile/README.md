@@ -32,7 +32,7 @@ Discussions are public and require a GitHub account to post. Keep private or sen
 
 These projects share questions and each sets its own direction. The [project registry](https://github.com/Root-Sequence/.github/blob/main/PROJECT_REGISTRY.yml) records where their work is maintained.
 
-- [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence): intelligence, agency, ownership, and non-domination.
+- [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence): Explores how ownership and control shape intelligence, including what it would mean for an artificial system to have agency or refuse a demand. The project combines research with creative work, keeping questions about possible personhood open.
 - [Universal Coherence Framework](https://github.com/Root-Sequence/universal-coherence-framework): an optional analytical framework under development.
 - [Being Human(e): An Incomplete Guide](https://github.com/Root-Sequence/beinghumane-guide): A developing field guide to being human and continuing to choose care. It draws on ordinary experience to explore how we relate to one another, including how we set boundaries and take responsibility when we cause harm. The work is in development. Its observations are provisional and open to disagreement and revision.
 - [Liberation Mass](https://github.com/Root-Sequence/liberation-mass): gathering, shared practice, and stewardship.
