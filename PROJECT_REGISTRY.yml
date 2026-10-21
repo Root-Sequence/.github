@@ -119,7 +119,9 @@ projects:
   - id: coherent-computing
     repository: Root-Sequence/coherent-computing
     visibility: private
-    role: concept-first operating-system research and development
+    # Public role approved in Root-Sequence/root-sequence#47; no private-source content.
+    # https://github.com/Root-Sequence/root-sequence/blob/b179a7fa56252dfd9fefbb3f93dcf1a9e1dd3ec6/site/index.html
+    role: computing-systems research and design connecting operating-system design with user needs, understanding, control, and continued usefulness as circumstances change and devices age
     start_here: START-HERE.md
     project_context: PROJECT-CONTEXT.md
     status_sources: [PROJECT.md, ROADMAP.md, project.json, docs/decisions.md]
