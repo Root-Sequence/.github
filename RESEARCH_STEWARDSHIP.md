@@ -6,9 +6,9 @@
 The proposed publication, licensing, attribution, and collaboration safeguards have one substantive home in `Root-Sequence/root-sequence/governance/`.
 
 - [Review the source proposal: root-sequence #50](https://github.com/Root-Sequence/root-sequence/pull/50).
-- [Read the exact draft governance index](https://github.com/Root-Sequence/root-sequence/blob/7ebd265dd8b3aebc5039ad7f234668560d49da11/governance/README.md).
-- [Inspect the preliminary public licensing baseline](https://github.com/Root-Sequence/root-sequence/blob/7ebd265dd8b3aebc5039ad7f234668560d49da11/governance/licensing-audit-2026-10-22.md).
-- [Follow the implementation and decision checklist](https://github.com/Root-Sequence/root-sequence/blob/7ebd265dd8b3aebc5039ad7f234668560d49da11/governance/implementation-checklist.md).
+- [Read the exact draft governance index](https://github.com/Root-Sequence/root-sequence/blob/8590f16c6bf8ea2fd010f9fe27be9b53006823a9/governance/README.md).
+- [Inspect the preliminary public licensing baseline](https://github.com/Root-Sequence/root-sequence/blob/8590f16c6bf8ea2fd010f9fe27be9b53006823a9/governance/licensing-audit-2026-10-22.md).
+- [Follow the implementation and decision checklist](https://github.com/Root-Sequence/root-sequence/blob/8590f16c6bf8ea2fd010f9fe27be9b53006823a9/governance/implementation-checklist.md).
 
 The exact-revision links intentionally resolve before a merge. They are snapshots, not assertions that the proposal is adopted. If the source is accepted, update this thin route to its maintained home through review; do not copy the substantive policy here.
 
