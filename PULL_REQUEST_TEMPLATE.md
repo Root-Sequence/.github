@@ -25,3 +25,7 @@ Check only what is relevant; do not update files mechanically.
 ## Notes / unresolved questions
 
 <!-- Anything reviewers or future contributors should know? -->
+
+## Participation and authority, when relevant
+
+<!-- Whose perspectives or burdens matter? What disagreement remains? Who can authorize the consequence? What enables review, reversal, handoff, or stopping? State privacy/publication boundaries. A passing check does not adopt a governance proposal or release a project hold. -->

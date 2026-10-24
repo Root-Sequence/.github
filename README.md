@@ -39,3 +39,7 @@ npm run docs:audit
 Repositories can adopt the template incrementally. A repository without those scripts simply skips the corresponding maintenance steps.
 
 The longer-term plan is to move reusable maintenance logic into a dedicated cross-project stewardship engine while organization `.github` repositories remain thin adapters/templates.
+
+## Collaboration proposal
+
+The [commons collaboration proposal](https://github.com/Root-Sequence/root-sequence/blob/main/commons/README.md#collaboration-as-a-living-experiment) is published for discussion in the conceptual commons. Proposed applications to repository work are in [CONTRIBUTING.md](CONTRIBUTING.md), with maintenance questions in [Project Stewardship](PROJECT_STEWARDSHIP.md#human-stewardship-and-adaptation). Each project keeps its existing rules until it explicitly adopts a change.
