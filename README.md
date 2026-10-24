@@ -26,6 +26,10 @@ The intended pattern is:
 - review stale/orphaned material before deletion
 - reconcile repositories periodically so small omissions do not accumulate
 
+## Research stewardship — proposed
+
+[`RESEARCH_STEWARDSHIP.md`](RESEARCH_STEWARDSHIP.md) routes to the review-pending publication, licensing, attribution, and collaboration safeguards in the main research repository. It is a thin pointer, not a second policy home or a change to existing licenses, project authority, or release permissions.
+
 ## Workflow template
 
 [`workflow-templates/repository-coherence.yml`](workflow-templates/repository-coherence.yml) is an organization workflow template for repositories that expose maintenance scripts such as:
