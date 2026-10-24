@@ -8,6 +8,10 @@ Shared contribution guidance, workflow templates, and repository-stewardship pol
 - [`PROJECT_REGISTRY.yml`](PROJECT_REGISTRY.yml) is the public-safe machine-readable project routing index.
 - [`COGNITIVE_ONRAMPS.md`](COGNITIVE_ONRAMPS.md) defines the short `START-HERE.md` layer.
 
+## Public introduction
+
+[`profile/README.md`](profile/README.md) is the organization-facing introduction. Shared positioning describes Root Sequence as an independent interdisciplinary research initiative; research substance and evidence records remain in the conceptual commons and project repositories. The website refresh is [published](https://rootsequence.systems/), and the [repository documentation cleanup](https://github.com/Root-Sequence/root-sequence/pull/46) is merged. The [professional-refresh checklist](https://github.com/Root-Sequence/root-sequence/blob/main/ROADMAP.md) remains canonical. Profile and Wiki publication are still pending; follow-up status updates use the existing review PRs. Do not create a second backlog here.
+
 ## Project Stewardship
 
 [`PROJECT_STEWARDSHIP.md`](PROJECT_STEWARDSHIP.md) defines the maintenance model for reducing repository drift and human memory load through conservative automation.
