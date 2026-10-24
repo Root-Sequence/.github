@@ -22,7 +22,7 @@ The `.github` repository defines shared contribution guidance, workflow template
 
 ## Current reality
 
-The repository currently provides stewardship policy, documentation contracts, a public-safe project registry, and workflow templates that projects may adopt incrementally. The refreshed organization profile and registry corrections merged on October 23, 2026 (Pacific), recording Liberated Intelligence and Liberation Mass as private pending substantial revision; the corresponding Wiki projection remains a separate draft. This repository is not a complete cross-project stewardship engine, an authority that can rewrite every project, or a guarantee that documentation is current merely because checks pass.
+The repository currently provides stewardship policy, documentation contracts, a public-safe project registry, and workflow templates that projects may adopt incrementally. The refreshed organization profile and registry corrections merged on October 23, 2026 (Pacific), recording Liberated Intelligence and Liberation Mass as private pending substantial revision; the corresponding Wiki projection merged later that evening. This repository is not a complete cross-project stewardship engine, an authority that can rewrite every project, or a guarantee that documentation is current merely because checks pass.
 
 ## The smallest useful map
 
