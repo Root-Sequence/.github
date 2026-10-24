@@ -8,6 +8,10 @@ Shared contribution guidance, workflow templates, and repository-stewardship pol
 - [`PROJECT_REGISTRY.yml`](PROJECT_REGISTRY.yml) is the public-safe machine-readable project routing index.
 - [`COGNITIVE_ONRAMPS.md`](COGNITIVE_ONRAMPS.md) defines the short `START-HERE.md` layer.
 
+## Public introduction
+
+[`profile/README.md`](profile/README.md) is the organization-facing introduction. Shared positioning describes Root Sequence as an independent interdisciplinary research initiative; research substance and evidence records remain in the conceptual commons and project repositories. The website refresh is [published](https://rootsequence.systems/), and the [repository documentation cleanup](https://github.com/Root-Sequence/root-sequence/pull/46) is merged. The [professional-refresh checklist](https://github.com/Root-Sequence/root-sequence/blob/main/ROADMAP.md) remains canonical. The checklist records publication history and current review work. Do not create a second backlog here.
+
 ## Project Stewardship
 
 [`PROJECT_STEWARDSHIP.md`](PROJECT_STEWARDSHIP.md) defines the maintenance model for reducing repository drift and human memory load through conservative automation.
@@ -38,4 +42,4 @@ The longer-term plan is to move reusable maintenance logic into a dedicated cros
 
 ## Collaboration proposal
 
-The shared [commons principles](https://github.com/Root-Sequence/root-sequence/blob/main/commons/README.md#collaboration-as-a-living-experiment) remain in the conceptual commons. [CONTRIBUTING.md](CONTRIBUTING.md) applies them to reviewable repository contributions, while [Project Stewardship](PROJECT_STEWARDSHIP.md#human-stewardship-and-adaptation) adds human maintenance and handoff prompts. These documents propose practice without creating new offices, authority, or automation.
+The [commons collaboration proposal](https://github.com/Root-Sequence/root-sequence/blob/main/commons/README.md#collaboration-as-a-living-experiment) is published for discussion in the conceptual commons. Proposed applications to repository work are in [CONTRIBUTING.md](CONTRIBUTING.md), with maintenance questions in [Project Stewardship](PROJECT_STEWARDSHIP.md#human-stewardship-and-adaptation). Each project keeps its existing rules until it explicitly adopts a change.

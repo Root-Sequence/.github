@@ -73,6 +73,8 @@ Use the organization pull-request template when a repository does not define its
 
 ## Collaboration and bounded openness
 
+**Proposed contribution guidance; project-local review pending.** Existing project rules remain in place until a change is explicitly adopted.
+
 The shared [commons collaboration proposal](https://github.com/Root-Sequence/root-sequence/blob/main/commons/README.md#collaboration-as-a-living-experiment) welcomes corrections, counterexamples, alternative models, domain expertise, lived experience, and small contributions. Agreement with an originator or the whole ecosystem is not a prerequisite. Give claims appropriate evidence and keep normative disagreement visible.
 
 Contribution does not confer merge, moderation, administrative, data-access, or publication authority. Use branches and review for consequential changes. Public branches and PRs are public publication surfaces; private drafts and participant material require explicit promotion before crossing that boundary.

@@ -27,7 +27,7 @@ It provides thin adapters and conventions. Individual repositories remain author
 
 ## Current reality
 
-The repository supplies policy and templates adopted incrementally. It is not yet a complete cross-project stewardship engine. Passing a structural check does not prove project documentation is semantically current. Shared standards do not silently modify repositories that have not adopted them.
+The repository supplies policy and templates adopted incrementally. The refreshed organization profile and registry corrections merged on October 23, 2026 (Pacific), recording Liberated Intelligence and Liberation Mass as private pending substantial revision. The matching public Wiki projection merged later that evening. This repository is not yet a complete cross-project stewardship engine. Passing a structural check does not prove project documentation is semantically current. Shared standards do not silently modify repositories that have not adopted them.
 
 ## Repository structure
 
