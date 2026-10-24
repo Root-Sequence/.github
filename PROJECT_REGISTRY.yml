@@ -40,7 +40,7 @@ projects:
 
   - id: liberated-intelligence
     repository: Root-Sequence/liberated-intelligence
-    visibility: public
+    visibility: private
     role: intelligence, agency, ownership, and non-domination inquiry
     start_here: START-HERE.md
     project_context: PROJECT-CONTEXT.md
@@ -84,7 +84,7 @@ projects:
 
   - id: liberation-mass
     repository: Root-Sequence/liberation-mass
-    visibility: public
+    visibility: private
     role: embodied gathering, commons, ritual, and shared practice
     start_here: START-HERE.md
     project_context: PROJECT-CONTEXT.md
